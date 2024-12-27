@@ -1,0 +1,61 @@
+Email Analysis Report
+
+1. Email Timestamp
+	The email was sent on Friday 03/03/2023  11:44 +0000
+
+2. Sender Information
+	Sender Name:  "Dr. Dan Miller"
+	Sender Email: <babakingsouthmichael@gmail.com>
+
+3. Reply-To Email Address
+	 The email is set to receive replies at Reply-To: imorourafiatou0@gmail.com
+
+4. Impersonated Brand
+	The email appears to impersonate "the United Nations Special Representative for
+Disaster Risk Reduction (UNDRR)."  based on its content.
+
+5. Originating IP Address
+	The email originated from the IP address: client-ip=209.85.220.41
+6. Domain of Interest
+	 Domain Type:
+
+		The email address uses a free email service domain (gmail.com) rather than an official organizational domain, such as one 	associated with the United Nations (@un.org) or any affiliated humanitarian organization.
+	Legitimate organizations like the UN or IMF do not use free email services for official communications.
+	
+	Suspicious Indicators:
+
+		The use of a personal email account (mrroberttaiwo212@gmail.com) raises a significant red flag.
+	Official correspondence from the United Nations or IMF would come from their verified domains, e.g., @undrr.org or @imf.org.
+	
+	Conclusion:
+
+		mrroberttaiwo212@gmail.com is a suspicious domain of interest. It is likely being used as part of a phishing or scam 	attempt to collect personal information (name, address, phone number, etc.) or to further a fraudulent financial scheme.
+
+	
+7. Shortened URL :
+	No shortened URLs were present in the email.
+
+8. Phishing Evaluation :
+	8. Phishing Evaluation
+Phishing Indicators:
+
+Sender's Email Address:
+The sender's email address does not align with the impersonated brand (United Nations). Official communication would come from a domain such as @un.org or @undrr.org.
+
+Reply-To Address:
+The Reply-To email (imorourafiatou0@gmail.com) is unrelated to the United Nations and uses a free email service, which is inconsistent with legitimate communication practices.
+
+Impersonation:
+The email falsely claims to represent a reputable organization (United Nations) to gain the recipient's trust.
+
+Request for Personal Information:
+The email requests sensitive personal details, including name, address, and phone number, which is a common tactic used in phishing schemes.
+
+Domain of Interest:
+The domain in use is not associated with any verified or legitimate organization.
+
+Conclusion:
+This email is a phishing attempt. It demonstrates multiple red flags, including the use of free email domains, impersonation of a reputable organization, and solicitation of personal information.
+	
+
+

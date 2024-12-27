@@ -1,0 +1,44 @@
+Email Analysis Report
+
+1. Email Timestamp
+	The email was sent on Monday 20/03/2023 15:57 +0000
+
+2. Sender Information
+	Sender Name:  "service@paypal.be"
+	Sender Email: <service@paypal.be>
+
+3. Reply-To Email Address
+	The email is set to receive replies at [service@paypal.be]
+
+4. Impersonated Brand
+	The email appears to impersonate "PayPal"  based on its content, logo usage, and style.
+
+5. Originating IP Address
+	The email originated from the IP address: X-Sender-IP: 66[.]211[.]170[.]87.
+
+6. Domain of Interest
+	The email contains links to the legitimate paypal.com domain, which is used for PayPal services. No suspicious or alternative domains were identified.
+		1/ hxxps://www[.]paypal[.]com/cgp/app-redirect?intent=xo_email_txn_details&src=RT000016_cta&ref_id=2T886045U28581329			&url_clicked_desc=getdetailsbtn&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000016&utm_unptid=da14b2e8-c737-11ed-		a0a9-3cecef6affec&ppid=RT000016&cnac=BE&rsta=fr_FR%28fr-BE%29&cust=5U9WSHT7ZXC7C&unptid=da14b2e8-c737-11ed-				a0a9-3cecef6affec&calc=7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-payment&page=main%3Aemail%3ART000016&pgrp=main%			3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.153.0&xt=104038%2C127632
+		
+		2/ hxxps[://]www[.]paypal[.]com/be/webapps/mpp/paypal-buyer-protection?v=1								&utm_source=unp&utm_medium=email&utm_campaign=RT000016&utm_unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&ppid=RT000016			&cnac=BE&rsta=fr_FR%28fr-BE%29&cust=5U9WSHT7ZXC7C&unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&calc=					7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-payment&page=main%3Aemail%3ART000016&pgrp=main%						3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.153.0&xt=104038%2C127632
+
+		3/ https://www[.]paypal[.]com/be/webapps/mpp/mobile-apps?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000016			&utm_unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&ppid=RT000016&cnac=BE&rsta=fr_FR%28fr-BE%29&cust=					5U9WSHT7ZXC7C&unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&calc=7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-				payment&page=main%3Aemail%3ART000016&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.153.0&xt=104038%2C127632
+
+		4/ https://www[.]paypal[.]com/be/webapps/mpp/paypal-safety-and-security?v=1								&utm_source=unp&utm_medium=email&utm_campaign=RT000016&utm_unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&ppid=RT000016			&cnac=BE&rsta=fr_FR%28fr-BE%29&cust=5U9WSHT7ZXC7C&unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&calc=					7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-payment&page=main%3Aemail%3ART000016&pgrp=main%						3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.153.0&xt=104038%2C127632
+		
+		5/ https://www[.]paypal[.]com/be/smarthelp/home?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000016				&utm_unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&ppid=RT000016&cnac=BE&rsta=fr_FR%28fr-BE%29&cust=					5U9WSHT7ZXC7C&unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&calc=7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-				payment&page=main%3Aemail%3ART000016&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.153.0&xt=104038%2C127632
+
+
+7. Shortened URL :
+	No shortened URLs were present in the email.
+
+8. Phishing Evaluation :
+	After reviewing the email and its headers, I believe this is not a phishing email because:
+
+		The sender's address and domain match the legitimate paypal.com domain.
+		The Reply-To address is consistent with PayPal's domain.
+		The IP address and domains in the email headers are associated with PayPal and trusted email servers (e.g., Outlook).
+		The email contains direct PayPal URLs and does not use any shortened URLs, which are common in phishing attempts.
+		The content of the email does not ask for sensitive information or prompt any urgent action.
+	
+

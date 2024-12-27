@@ -1,0 +1,36 @@
+Email Analysis Report
+
+1. Email Timestamp
+	The email was sent on Wed, 14 Dec 2022 05:54:16 +0000
+
+2. Sender Information
+	Sender Name:  "noreply"
+	Sender Email: <stainless@midnightmagicevents.com>
+
+3. Reply-To Email Address
+	The email is set to receive replies at <stainless@midnightmagicevents.com>
+
+4. Impersonated Brand
+	The email appears to impersonate "Trust Wallet"  based on its content, logo usage, and style.
+
+5. Originating IP Address
+	The email originated from the IP address: X-Sender-IP: 172[.]81[.]119[.]154.
+
+6. Domain of Interest
+	hxxps[://]climovil[.]com/ does not seem to be associated with any globally recognized or reputable brand. It could be a  suspicious website.
+
+		
+
+7. Shortened URL :
+	No shortened URLs were present in the email.
+
+8. Phishing Evaluation :
+	
+	This email is highly likely to be a phishing attempt based on the following:
+
+The sender's email domain does not match the impersonated brand.
+The Reply-To address is unrelated to Trust Wallet.
+The email references a suspicious domain (climovil.com) that is not associated with the brand being impersonated.
+The IP address does not align with Trust Wallet's known infrastructure.
+Recommendation:
+Do not interact with the email or click on any links. Report it to your organization's cybersecurity team or the impersonated brand (Trust Wallet) for further investigation.

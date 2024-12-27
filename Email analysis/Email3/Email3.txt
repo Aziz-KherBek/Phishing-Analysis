@@ -1,0 +1,35 @@
+Email Analysis Report
+
+1. Email Timestamp
+	The email was sent on Sunday 26/03/2023 +0000
+
+2. Sender Information
+	Sender Name:  "Tinder"
+	Sender Email: <gq@80-78-255-128.cloudvps.regruhosting.ru>
+
+3. Reply-To Email Address
+	 The email is set to receive replies at Return-Path: gq@80-78-255-128[.]cloudvps[.]regruhosting[.]ru
+
+4. Impersonated Brand
+	The email appears to impersonate "Tinder"  based on its content, logo usage, and style.
+
+5. Originating IP Address
+	The email originated from the IP address: X-Sender-IP: 80[.]78[.]255[.]128
+
+6. Domain of Interest
+	hxxp[://]blog[.]tulingxueyuan[.]cn/contradictedqm.php?utm_campaign=tpdjuresn does not seem to be associated with any globally recognized or reputable brand. It could be a  suspicious website.
+
+	
+7. Shortened URL :
+	No shortened URLs were present in the email.
+
+8. Phishing Evaluation :
+	
+	This email is highly likely to be a phishing attempt due to the following reasons:
+
+The sender's email address and Reply-To address are unrelated to the impersonated brand.
+The originating IP address is not associated with Tinder's known infrastructure.
+The domain of interest (tulingxueyuan.cn) is suspicious and unrelated to Tinder.
+The email attempts to impersonate a well-known brand, which is a common phishing tactic.
+
+

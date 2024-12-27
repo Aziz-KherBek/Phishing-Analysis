@@ -1,0 +1,55 @@
+Email Analysis Report
+
+1. Email Timestamp
+	The email was sent on Saturday 27/08/2022 9:42 +0000
+
+2. Sender Information
+	Sender Name:  "Ariana"
+	Sender Email: <newsmail@app9l.serenitepure.fr>
+
+3. Reply-To Email Address
+	The email is set to receive replies at  <return24F5o01l@arnhemophthalmics.com>
+
+4. Impersonated Brand
+	The email appears to impersonate "WHATSAPP"  based on its content, logo usage, and style.
+
+5. Originating IP Address
+	The email originated from the IP address: X-Sender-IP: 51[.]83[.]34[.]109 .
+
+6. Domain of Interest
+	Suspicious Domain:
+
+		hxxp[://]secure-netcloud[.]com/?a=71&c=76&s1=dadaa&email=phishing@pot[.]org
+	Analysis:
+
+		The domain secure-netcloud[.]com does not appear to be associated with any legitimate or globally recognized brand.
+		The URL structure, including query parameters such as email=phishing@pot[.]org, is often used in phishing attempts to 			track recipients and harvest sensitive data.
+	Conclusion:
+		This domain is likely being used as part of a phishing scheme and should be treated as suspicious.
+
+		
+
+7. Shortened URL :
+	No shortened URLs were present in the email.
+
+8. Phishing Evaluation :
+	
+      Indicators of Phishing:
+
+	Sender's Email Address:
+		The sender's email domain (app9l.serenitepure.fr) is unrelated to WhatsApp and does not align with the impersonated brand.
+
+	Reply-To Address:
+		The Reply-To email (return24F5o01l@arnhemophthalmics.com) is inconsistent with the sender's domain and further raises suspicion.
+
+	Impersonation:
+		The email falsely claims to represent WhatsApp, a reputable brand, to gain the recipient's trust.
+
+	Domain of Interest:
+		The domain secure-netcloud[.]com is suspicious and likely part of a phishing scheme.
+
+	Content and Intent:
+		The email's purpose appears to be to mislead the recipient and potentially collect sensitive information or redirect them to a malicious website.
+
+	Conclusion:
+		This email is a phishing attempt. It exhibits multiple red flags, including the use of unrelated domains, impersonation of a well-known brand, and the inclusion of a suspicious URL.
